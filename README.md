@@ -18,5 +18,5 @@ if __name__ == "__main__":
 git init
 git add inverter_string.py
 git commit -m "Adiciona script para inverter string"
-git remote add origin https://github.com/SeuUsuario/inverter-string.git
+git remote add origin https://github.com/Wanderson@DESKTOP-V9VMFD4/inverter-string.git
 
